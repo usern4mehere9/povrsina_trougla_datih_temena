@@ -1,0 +1,16 @@
+C:\Users\Nikola\source\repos\Povrsina_trougla_datih_temena\Povrsina_trougla_datih_temena\bin\Debug\net5.0\Povrsina_trougla_datih_temena.exe
+C:\Users\Nikola\source\repos\Povrsina_trougla_datih_temena\Povrsina_trougla_datih_temena\bin\Debug\net5.0\Povrsina_trougla_datih_temena.deps.json
+C:\Users\Nikola\source\repos\Povrsina_trougla_datih_temena\Povrsina_trougla_datih_temena\bin\Debug\net5.0\Povrsina_trougla_datih_temena.runtimeconfig.json
+C:\Users\Nikola\source\repos\Povrsina_trougla_datih_temena\Povrsina_trougla_datih_temena\bin\Debug\net5.0\Povrsina_trougla_datih_temena.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\Povrsina_trougla_datih_temena\Povrsina_trougla_datih_temena\bin\Debug\net5.0\Povrsina_trougla_datih_temena.dll
+C:\Users\Nikola\source\repos\Povrsina_trougla_datih_temena\Povrsina_trougla_datih_temena\bin\Debug\net5.0\ref\Povrsina_trougla_datih_temena.dll
+C:\Users\Nikola\source\repos\Povrsina_trougla_datih_temena\Povrsina_trougla_datih_temena\bin\Debug\net5.0\Povrsina_trougla_datih_temena.pdb
+C:\Users\Nikola\source\repos\Povrsina_trougla_datih_temena\Povrsina_trougla_datih_temena\obj\Debug\net5.0\Povrsina_trougla_datih_temena.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\Povrsina_trougla_datih_temena\Povrsina_trougla_datih_temena\obj\Debug\net5.0\Povrsina_trougla_datih_temena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\Povrsina_trougla_datih_temena\Povrsina_trougla_datih_temena\obj\Debug\net5.0\Povrsina_trougla_datih_temena.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\Povrsina_trougla_datih_temena\Povrsina_trougla_datih_temena\obj\Debug\net5.0\Povrsina_trougla_datih_temena.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\Povrsina_trougla_datih_temena\Povrsina_trougla_datih_temena\obj\Debug\net5.0\Povrsina_trougla_datih_temena.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\Povrsina_trougla_datih_temena\Povrsina_trougla_datih_temena\obj\Debug\net5.0\Povrsina_trougla_datih_temena.dll
+C:\Users\Nikola\source\repos\Povrsina_trougla_datih_temena\Povrsina_trougla_datih_temena\obj\Debug\net5.0\ref\Povrsina_trougla_datih_temena.dll
+C:\Users\Nikola\source\repos\Povrsina_trougla_datih_temena\Povrsina_trougla_datih_temena\obj\Debug\net5.0\Povrsina_trougla_datih_temena.pdb
+C:\Users\Nikola\source\repos\Povrsina_trougla_datih_temena\Povrsina_trougla_datih_temena\obj\Debug\net5.0\Povrsina_trougla_datih_temena.genruntimeconfig.cache

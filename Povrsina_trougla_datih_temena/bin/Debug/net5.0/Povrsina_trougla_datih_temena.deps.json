@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Povrsina_trougla_datih_temena/1.0.0": {
+        "runtime": {
+          "Povrsina_trougla_datih_temena.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Povrsina_trougla_datih_temena/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
